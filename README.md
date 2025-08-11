@@ -10,7 +10,7 @@ You can view the fully interactive dashboard here:
 [**View on Tableau Public**](https://public.tableau.com/app/profile/maryha.sulbhi/viz/HRData_17483552865460/Dashboard1)
 
 ## 📷 Preview
-![Dashboard Preview](screenshots/hr_dashboard.png)
+![Dashboard Preview](Downloads/hr_dashboard.png)
 )
 
 ## 📂 Files in this Repository
