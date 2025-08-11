@@ -10,8 +10,7 @@ You can view the fully interactive dashboard here:
 [**View on Tableau Public**](https://public.tableau.com/app/profile/maryha.sulbhi/viz/HRData_17483552865460/Dashboard1)
 
 ## 📷 Preview
-![Dashboard Preview](Downloads/hr_dashboard.png)
-)
+![Dashboard Preview](<img width="1974" height="1124" alt="hr_dashboard" src="https://github.com/user-attachments/assets/09f27b58-be5f-45fc-9d14-076ac4ccb933" />)
 
 ## 📂 Files in this Repository
 - `HR_Data_Dashboard.twbx` → Tableau packaged workbook (can be opened in Tableau Desktop)
