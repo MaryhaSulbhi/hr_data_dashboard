@@ -45,4 +45,12 @@ You can view the fully interactive dashboard here:
 2. Open it in **Tableau Desktop**.
 3. Explore, modify, or republish the dashboard.
 
+##🤝 Contributing
+Contributions, suggestions, and feature requests are welcome!
+
+Fork the repo, make your changes, and submit a pull request.
+
+##📄 License
+This project is licensed under the MIT License.
+
 ---
