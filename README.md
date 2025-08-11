@@ -5,6 +5,17 @@ HR Data Dashboard is a Tableau project that visualizes employee data to analyze 
 
 ## 📌 Overview
 This project is an **HR Analytics Dashboard** built using Tableau to visualize employee data, track attrition rates, and analyze key workforce metrics such as age distribution, job satisfaction, department-wise turnover, and more.
+The dashboard allows users to:
+
+•Track overall attrition rate and compare it across gender, departments, and age groups.
+
+•Identify key reasons for attrition through job satisfaction and education field analysis.
+
+•View department-wise workforce distribution.
+
+•Analyze employee age group trends to understand workforce composition.
+
+This project is designed for HR professionals, data analysts, and business leaders who want a quick, interactive, and data-driven view of employee metrics for better decision-making.
 
 ## 🔗 Live Interactive Version
 You can view the fully interactive dashboard here:  
